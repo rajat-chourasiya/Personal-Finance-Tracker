@@ -1,5 +1,4 @@
-https://github.com/rajat-chourasiya/Personal-Finance-Tracker/blob/de8642c0b04a87a4725fc8f16d9f0a4f3114e1aa/Screenshot_20250128-145956_Chrome.jpg
-
+![image alt](https://github.com/rajat-chourasiya/Personal-Finance-Tracker/blob/de8642c0b04a87a4725fc8f16d9f0a4f3114e1aa/Screenshot_20250128-145956_Chrome.jpg?raw=true) 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
